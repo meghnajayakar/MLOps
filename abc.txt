@@ -1,2 +1,3 @@
 hello, 
 its a Friday
+first MLOps lecture today, i.e 9th August 2024
